@@ -1,0 +1,14 @@
+2021-Sep-01 13:11:25 PM [main] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-01 13:11:25 PM [main] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-01 13:11:25 PM [main] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-01 13:11:25 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-01 13:11:26 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-01 13:11:44 PM [main] DEBUG stepdefinations.Stepdef - navigate to the url
+2021-Sep-01 13:11:55 PM [main] DEBUG stepdefinations.Stepdef - clicked ok sign in button
+2021-Sep-01 13:11:56 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-01 13:11:57 PM [main] DEBUG stepdefinations.Stepdef - enter email id
+2021-Sep-01 13:11:57 PM [main] DEBUG stepdefinations.Stepdef - click on create new account button
+2021-Sep-01 13:11:57 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-01 13:11:57 PM [main] DEBUG stepdefinations.Stepdef - get title from browser
+2021-Sep-01 13:12:04 PM [main] DEBUG stepdefinations.Stepdef - result should be display
+2021-Sep-01 13:12:05 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken

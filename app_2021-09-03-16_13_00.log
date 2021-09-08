@@ -1,0 +1,10 @@
+2021-Sep-03 16:13:03 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-03 16:13:03 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-03 16:13:04 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-03 16:13:04 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-03 16:13:13 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - navigate to the url
+2021-Sep-03 16:13:15 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - clicked ok sign in button
+2021-Sep-03 16:13:15 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - enter email id
+2021-Sep-03 16:13:15 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - click on create new account button
+2021-Sep-03 16:13:15 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - get title from browser
+2021-Sep-03 16:13:46 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken

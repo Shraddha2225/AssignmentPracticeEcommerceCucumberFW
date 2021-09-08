@@ -1,0 +1,73 @@
+2021-Sep-05 16:01:40 PM [TestNG-PoolService-1] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:02:12 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-05 16:02:12 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-05 16:02:12 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-05 16:02:12 PM [TestNG-PoolService-2] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-05 16:02:12 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-05 16:02:13 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-05 16:02:13 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-05 16:02:13 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-05 16:02:13 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-05 16:02:13 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:02:13 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:02:13 PM [TestNG-PoolService-2] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-05 16:02:13 PM [TestNG-PoolService-2] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-05 16:02:13 PM [TestNG-PoolService-2] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:02:14 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-05 16:02:14 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-05 16:02:14 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:02:14 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-05 16:02:14 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-05 16:02:14 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:02:14 PM [TestNG-PoolService-2] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:02:14 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:02:14 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:02:14 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:02:46 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - navigate to the url
+2021-Sep-05 16:02:46 PM [TestNG-PoolService-2] DEBUG stepdefinations.Stepdef - navigate to the url
+2021-Sep-05 16:02:46 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - navigate to the url
+2021-Sep-05 16:02:46 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - navigate to the url
+2021-Sep-05 16:02:47 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - navigate to the url
+2021-Sep-05 16:03:01 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - clicked ok sign in button
+2021-Sep-05 16:03:03 PM [TestNG-PoolService-2] DEBUG stepdefinations.Stepdef - clicked ok sign in button
+2021-Sep-05 16:03:03 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - clicked ok sign in button
+2021-Sep-05 16:03:03 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - clicked ok sign in button
+2021-Sep-05 16:03:04 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - clicked ok sign in button
+2021-Sep-05 16:03:05 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - enter email id
+2021-Sep-05 16:03:06 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - click on create new account button
+2021-Sep-05 16:03:06 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - get title from browser
+2021-Sep-05 16:03:07 PM [TestNG-PoolService-2] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:07 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:07 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:07 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:08 PM [TestNG-PoolService-2] DEBUG stepdefinations.Stepdef - enter emailyashruta@gmail.com
+2021-Sep-05 16:03:09 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - enter emailyashruta@gmail.com
+2021-Sep-05 16:03:09 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - enter emailyashruta@gmail.com
+2021-Sep-05 16:03:09 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - enter email id
+2021-Sep-05 16:03:09 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - result should be display
+2021-Sep-05 16:03:09 PM [TestNG-PoolService-2] DEBUG stepdefinations.Stepdef - enter passwordys@1991
+2021-Sep-05 16:03:10 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - enter passwordys@1991
+2021-Sep-05 16:03:10 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:10 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - enter passwordys@1991
+2021-Sep-05 16:03:10 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - click on create new account button
+2021-Sep-05 16:03:10 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:10 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:10 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - get title from browser
+2021-Sep-05 16:03:14 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - click on submit button
+2021-Sep-05 16:03:14 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - click on submit button
+2021-Sep-05 16:03:14 PM [TestNG-PoolService-2] DEBUG stepdefinations.Stepdef - click on submit button
+2021-Sep-05 16:03:15 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - result should be display
+2021-Sep-05 16:03:15 PM [TestNG-PoolService-2] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:15 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:15 PM [TestNG-PoolService-4] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:15 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:15 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:18 PM [TestNG-PoolService-3] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:18 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:19 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:21 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:21 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - select state
+2021-Sep-05 16:03:21 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - select country
+2021-Sep-05 16:03:23 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - click on register
+2021-Sep-05 16:03:24 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-05 16:03:24 PM [TestNG-PoolService-5] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken

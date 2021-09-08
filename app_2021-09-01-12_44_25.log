@@ -1,0 +1,10 @@
+2021-Sep-01 12:44:45 PM [main] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-01 12:44:45 PM [main] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-01 12:44:45 PM [main] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-01 12:44:45 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-01 12:44:46 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-01 12:45:06 PM [main] DEBUG stepdefinations.Stepdef - navigate to the url
+2021-Sep-01 12:45:19 PM [main] DEBUG stepdefinations.Stepdef - clicked ok sign in button
+2021-Sep-01 12:45:20 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-01 12:45:21 PM [main] DEBUG stepdefinations.Stepdef - enter email id
+2021-Sep-01 12:45:51 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken

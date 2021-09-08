@@ -1,0 +1,45 @@
+2021-Sep-02 22:24:46 PM [main] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-02 22:24:46 PM [main] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-02 22:24:47 PM [main] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-02 22:24:47 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:24:47 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:24:57 PM [main] DEBUG stepdefinations.Stepdef - navigate to the url
+2021-Sep-02 22:25:00 PM [main] DEBUG stepdefinations.Stepdef - clicked ok sign in button
+2021-Sep-02 22:25:00 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:25:01 PM [main] DEBUG stepdefinations.Stepdef - enter email id
+2021-Sep-02 22:25:01 PM [main] DEBUG stepdefinations.Stepdef - click on create new account button
+2021-Sep-02 22:25:01 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:25:01 PM [main] DEBUG stepdefinations.Stepdef - get title from browser
+2021-Sep-02 22:25:03 PM [main] DEBUG stepdefinations.Stepdef - result should be display
+2021-Sep-02 22:25:03 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:25:07 PM [main] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-02 22:25:07 PM [main] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-02 22:25:09 PM [main] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-02 22:25:09 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:25:23 PM [main] DEBUG stepdefinations.Stepdef - navigate to the url
+2021-Sep-02 22:25:26 PM [main] DEBUG stepdefinations.Stepdef - clicked ok sign in button
+2021-Sep-02 22:25:27 PM [main] DEBUG stepdefinations.Stepdef - enter email id
+2021-Sep-02 22:25:27 PM [main] DEBUG stepdefinations.Stepdef - click on create new account button
+2021-Sep-02 22:25:27 PM [main] DEBUG stepdefinations.Stepdef - get title from browser
+2021-Sep-02 22:25:29 PM [main] DEBUG stepdefinations.Stepdef - result should be display
+2021-Sep-02 22:25:30 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:25:30 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:25:31 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:25:31 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:25:31 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:25:37 PM [main] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-02 22:25:38 PM [main] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-02 22:25:40 PM [main] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-02 22:25:40 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:25:51 PM [main] DEBUG stepdefinations.Stepdef - navigate to the url
+2021-Sep-02 22:25:54 PM [main] DEBUG stepdefinations.Stepdef - clicked ok sign in button
+2021-Sep-02 22:25:55 PM [main] DEBUG stepdefinations.Stepdef - enter email id
+2021-Sep-02 22:25:55 PM [main] DEBUG stepdefinations.Stepdef - click on create new account button
+2021-Sep-02 22:25:55 PM [main] DEBUG stepdefinations.Stepdef - get title from browser
+2021-Sep-02 22:25:57 PM [main] DEBUG stepdefinations.Stepdef - result should be display
+2021-Sep-02 22:25:57 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:25:59 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:25:59 PM [main] DEBUG stepdefinations.Stepdef - select state
+2021-Sep-02 22:25:59 PM [main] DEBUG stepdefinations.Stepdef - select country
+2021-Sep-02 22:26:01 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 22:26:32 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken

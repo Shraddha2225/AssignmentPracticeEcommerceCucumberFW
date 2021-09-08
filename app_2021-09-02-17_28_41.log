@@ -1,0 +1,5 @@
+2021-Sep-02 17:28:46 PM [main] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-02 17:28:46 PM [main] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-02 17:28:46 PM [main] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-02 17:28:46 PM [main] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-02 17:28:47 PM [main] DEBUG stepdefinations.Stepdef - navigate to the url
