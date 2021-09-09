@@ -12,7 +12,17 @@ Feature: End To End User Feature
 
     @checkout
     Scenario: User able to done checkout process of product
-      Given
+      Given User signed in
+      And User able to proceed add to cart and displayed pop up box
+      When User click on Proceed to Checkout
+      Then Check the User sees the product name and Availability as Instock
+      And  Check unit Price equal to what was captured previously and Quantity to what was set earlier
+      And Check the Total is equal to twice the amount with added charges for shipping
+      And Click on Proceed to Check out again and reach till payment and click on Terms and condition check box
+
+
+    #On Payment Page click on Pay by bank wire and Click on I confirm my Order
+    #Check the order submit page and message "Your order on My Store is complete." also check is amount is right.
 
 
 

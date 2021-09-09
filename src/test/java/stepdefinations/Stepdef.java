@@ -305,20 +305,69 @@ public class Stepdef {
 
     @Then("Message displayed Product successfully added to your shopping cart")
     public void message_displayed_product_successfully_added_to_your_shopping_cart() throws InterruptedException {
-       // Assert.assertEquals("Faded Short Sleeve T-shirts - My Store",driver.getTitle());
         Thread.sleep(3000);
         WebElement displayedMessage = driver.findElement(By.xpath("//img[@src='http://automationpractice.com/img/p/3/3-home_default.jpg']"));
         Assert.assertEquals(displayedMessage.isDisplayed(),true,"Product successfully added to your shopping cart");
-
     }
+
     @Then("Check the Quantity and Color")
     public void check_the_quantity_and_color() {
         driver.findElement(By.id("layer_cart_product_quantity"));
         driver.findElement(By.id("layer_cart_product_attributes"));
     }
+
     @Then("Check Total Price is twice the amount fetched earlier.")
     public void check_total_price_is_twice_the_amount_fetched_earlier() {
         driver.findElement(By.xpath("//span[@class='ajax_block_cart_total']"));
+    }
+
+
+    //checkout process
+    @Given("User able to proceed add to cart and displayed pop up box")
+    public void user_able_to_proceed_add_to_cart_and_displayed_pop_up_box() throws InterruptedException {
+        user_click_on_plus_button_to_increase_the_quantity_of_product();
+        user_select_large_size_of_the_product();
+        user_click_on_add_to_cart_button();
+        message_displayed_product_successfully_added_to_your_shopping_cart();
+    }
+
+    @When("User click on Proceed to Checkout")
+    public void user_click_on_proceed_to_checkout() {
+        driver.findElement(By.xpath("//a[@title='Proceed to checkout']")).click();
+    }
+
+    @Then("Check the User sees the product name and Availability as Instock")
+    public void check_the_user_sees_the_product_name_and_availability_as_instock() {
+        driver.findElement(By.xpath("//p[@class='product-name']")).getText();
+        driver.findElement(By.xpath("//td[@class='cart_avail']")).getText();
+
+    }
+    @Then("Check unit Price equal to what was captured previously and Quantity to what was set earlier")
+    public void check_unit_price_equal_to_what_was_captured_previously_and_quantity_to_what_was_set_earlier() throws InterruptedException {
+        Thread.sleep(3000);
+        WebElement productUnitPrice = driver.findElement(By.xpath("//td[@class='cart_unit']"));
+        Assert.assertEquals(productUnitPrice.isDisplayed(),true,"check unit price of product");
+        WebElement productQuantity = driver.findElement(By.xpath("//input[@class='cart_quantity_input form-control grey']"));
+        Assert.assertEquals(productQuantity.isDisplayed(),true,"Quantity of product");
+
+
+    }
+    @Then("Check the Total is equal to twice the amount with added charges for shipping")
+    public void check_the_total_is_equal_to_twice_the_amount_with_added_charges_for_shipping() {
+        driver.findElement(By.xpath("//tr[@class='cart_total_price']")).isDisplayed();
+        driver.findElement(By.id("total_shipping")).isDisplayed();
+
+    }
+    @Then("Click on Proceed to Check out again and reach till payment and click on Terms and condition check box")
+    public void click_on_proceed_to_check_out_again_and_reach_till_payment_and_click_on_terms_and_condition_check_box() throws InterruptedException {
+        Thread.sleep(1000);
+        driver.findElement(By.xpath("//a[@class='button btn btn-default standard-checkout button-medium']")).click();
+        Thread.sleep(1000);
+        driver.findElement(By.xpath("//button[@type='submit' and @name='processAddress']")).click();
+        Thread.sleep(1000);
+        driver.findElement(By.id("cgv")).isSelected();
+        Thread.sleep(1000);
+
     }
 }
 
