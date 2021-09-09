@@ -1,0 +1,7 @@
+2021-Sep-09 18:17:18 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-09 18:17:19 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-09 18:17:19 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-09 18:17:19 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-09 18:17:39 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - navigate to the url
+2021-Sep-09 18:17:40 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - clicked ok sign in button
+2021-Sep-09 18:18:11 PM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken

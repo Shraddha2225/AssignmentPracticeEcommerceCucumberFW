@@ -283,6 +283,43 @@ public class Stepdef {
         WebElement element = driver.findElement(By.xpath("//*[@id=\"bigpic\"]"));
         Assert.assertEquals(element.isDisplayed(),true,"T-shirt color change in blue color");
     }
+
+    //TC7:end to end user journey
+    @When("User click on plus button to increase the quantity of product")
+    public void user_click_on_plus_button_to_increase_the_quantity_of_product() {
+        driver.findElement(By.xpath("//a[@class='btn btn-default button-plus product_quantity_up']")).click();
+    }
+
+    @When("User select large size of the product")
+    public void user_select_large_size_of_the_product() {
+        WebElement selectDropDownProductSize = driver.findElement(By.id("group_1"));
+        Select selectProductSize = new Select(selectDropDownProductSize);
+        selectProductSize.selectByValue("3");
+    }
+
+    @When("User click on Add to cart button")
+    public void user_click_on_add_to_cart_button() {
+        user_click_on_color_blue();
+        driver.findElement(By.id("add_to_cart")).click();
+    }
+
+    @Then("Message displayed Product successfully added to your shopping cart")
+    public void message_displayed_product_successfully_added_to_your_shopping_cart() throws InterruptedException {
+       // Assert.assertEquals("Faded Short Sleeve T-shirts - My Store",driver.getTitle());
+        Thread.sleep(3000);
+        WebElement displayedMessage = driver.findElement(By.xpath("//img[@src='http://automationpractice.com/img/p/3/3-home_default.jpg']"));
+        Assert.assertEquals(displayedMessage.isDisplayed(),true,"Product successfully added to your shopping cart");
+
+    }
+    @Then("Check the Quantity and Color")
+    public void check_the_quantity_and_color() {
+        driver.findElement(By.id("layer_cart_product_quantity"));
+        driver.findElement(By.id("layer_cart_product_attributes"));
+    }
+    @Then("Check Total Price is twice the amount fetched earlier.")
+    public void check_total_price_is_twice_the_amount_fetched_earlier() {
+        driver.findElement(By.xpath("//span[@class='ajax_block_cart_total']"));
+    }
 }
 
 

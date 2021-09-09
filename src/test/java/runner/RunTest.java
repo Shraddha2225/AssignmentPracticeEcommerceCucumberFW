@@ -7,7 +7,7 @@ import org.testng.annotations.DataProvider;
 @CucumberOptions(
         features = "classpath:features",
         glue = "stepdefinations",
-        tags = "",
+        tags = "@end_to_end_user",
         plugin = {"pretty","summary",
                 "html:target/cucumber-reports.html",
                 "json:target/json_result.json",

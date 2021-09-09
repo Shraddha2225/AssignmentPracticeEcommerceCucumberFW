@@ -1,0 +1,16 @@
+2021-Sep-09 03:57:02 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - initialized chrome
+2021-Sep-09 03:57:03 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Maximized windows
+2021-Sep-09 03:57:03 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - delete all cookies
+2021-Sep-09 03:57:03 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-09 03:57:12 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - navigate to the url
+2021-Sep-09 03:57:15 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - clicked ok sign in button
+2021-Sep-09 03:57:15 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - enter emailicici5@gmail.com
+2021-Sep-09 03:57:15 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - enter passwordnandu2225
+2021-Sep-09 03:57:17 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - click on submit button
+2021-Sep-09 03:57:20 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - select category T-Shirts
+2021-Sep-09 03:57:23 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - click on product
+2021-Sep-09 03:57:23 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-09 03:57:24 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-09 03:57:24 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-09 03:57:25 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
+2021-Sep-09 03:57:55 AM [TestNG-PoolService-0] DEBUG stepdefinations.Stepdef - Each step hook is executed,screen shots taken
