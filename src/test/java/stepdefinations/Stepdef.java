@@ -365,9 +365,39 @@ public class Stepdef {
         Thread.sleep(1000);
         driver.findElement(By.xpath("//button[@type='submit' and @name='processAddress']")).click();
         Thread.sleep(1000);
-        driver.findElement(By.id("cgv")).isSelected();
+        driver.findElement(By.id("cgv")).click();
         Thread.sleep(1000);
+    }
+    @Then("On Payment Page click on Pay by bank wire and Click on I confirm my Order")
+    public void on_payment_page_click_on_pay_by_bank_wire_and_click_on_i_confirm_my_order() throws InterruptedException {
+        Thread.sleep(2000);
+        driver.findElement(By.xpath("//button[@type='submit' and @name='processCarrier']")).click();
+        driver.findElement(By.xpath("//a[@class='bankwire']")).click();
+        Thread.sleep(2000);
+        driver.findElement(By.xpath("//button[@class='button btn btn-default button-medium']")).click();
+        Thread.sleep(2000);
 
+    }
+   /* @Then("Check the order submit page and message Your order on My Store is complete. also check is amount is right.")
+    public void check_the_order_submit_page_and_message_your_order_on_my_store_is_complete_also_check_is_amount_is_right() throws InterruptedException {
+        WebElement displayedOrderSubmit = driver.findElement(By.xpath("//strong[text()='Your order on My Store is complete.']"));
+        Assert.assertEquals(displayedOrderSubmit.isDisplayed(),true,"Your order on My Store is complete");
+
+        WebElement displayedRightAmount = driver.findElement(By.xpath("//span[@class='price']"));
+        Assert.assertEquals(displayedRightAmount.getText(),true,"check for right amount");
+
+        Thread.sleep(2000);
+    }*/
+
+    @Then("Check the order submit page and message Your order on My Store is complete. also check is amount is right")
+    public void check_the_order_submit_page_and_message_your_order_on_my_store_is_complete_also_check_is_amount_is_right() throws InterruptedException {
+        WebElement displayedOrderSubmit = driver.findElement(By.xpath("//strong[text()='Your order on My Store is complete.']"));
+        Assert.assertEquals(displayedOrderSubmit.isDisplayed(),true,"Your order on My Store is complete");
+
+        WebElement displayedRightAmount = driver.findElement(By.xpath("//span[@class='price']"));
+        Assert.assertEquals(displayedRightAmount.isDisplayed(),true,"check for right amount");
+
+        Thread.sleep(2000);
     }
 }
 

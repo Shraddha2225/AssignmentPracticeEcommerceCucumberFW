@@ -19,10 +19,11 @@ Feature: End To End User Feature
       And  Check unit Price equal to what was captured previously and Quantity to what was set earlier
       And Check the Total is equal to twice the amount with added charges for shipping
       And Click on Proceed to Check out again and reach till payment and click on Terms and condition check box
+      And On Payment Page click on Pay by bank wire and Click on I confirm my Order
+      And Check the order submit page and message Your order on My Store is complete. also check is amount is right
 
 
-    #On Payment Page click on Pay by bank wire and Click on I confirm my Order
-    #Check the order submit page and message "Your order on My Store is complete." also check is amount is right.
+
 
 
 
